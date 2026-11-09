@@ -12,3 +12,5 @@ gestures {
 		off
 	}
 }
+
+Mod+C { spawn "noctalia" "msg" "panel-toggle" "clipboard"; }
