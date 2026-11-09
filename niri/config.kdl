@@ -13,4 +13,6 @@ gestures {
 	}
 }
 
-Mod+C { spawn "noctalia" "msg" "panel-toggle" "clipboard"; }
+binds {
+	Mod+C { spawn "noctalia" "msg" "panel-toggle" "clipboard"; }
+}
