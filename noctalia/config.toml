@@ -1,0 +1,9 @@
+[shell]
+polkit_agent = true
+
+[location]
+auto_locate = false
+address = "Gldani, Tbilisi, Georgia"
+
+[weather]
+enabled = true
